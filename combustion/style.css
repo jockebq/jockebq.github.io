@@ -7,8 +7,5 @@
   -webkit-background-size: auto, cover;
   -moz-background-size: auto, cover;
   -o-background-size: auto, cover;
-  min-height: 100%;
-  height: auto;
   background-color: rgba(0, 0, 0, .0);
-  font-family: Open Sans Semibold, Helvetica Neue, Helvetica, Arial, sans-serif;
 }
