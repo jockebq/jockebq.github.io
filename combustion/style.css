@@ -1,3 +1,19 @@
+body {
+  background-image: url("blur-noise.png"), url("blur-light.png");
+  background-repeat: repeat, no-repeat;
+  background-attachment: fixed, fixed;
+  background-position: center center, center center;
+  background-size: auto, cover;
+  -webkit-background-size: auto, cover;
+  -moz-background-size: auto, cover;
+  -o-background-size: auto, cover;
+  min-height: 100%;
+  height: auto;
+  background-color: rgba(0, 0, 0, .0);
+  font-family: Open Sans Semibold, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+
 .index__header___28Tp8{
   background-color: black!important;
 }
