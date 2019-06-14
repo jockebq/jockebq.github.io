@@ -1,3 +1,8 @@
+body {
+  font: 67.5% Roboto;
+  font-family: Roboto;
+}
+
 div.index__container__inner___1ldZA.index__container___izEfr {
   background-image: url("https://jockebq.github.io/combustion/blur-noise.png"), url("https://jockebq.github.io/combustion/blur-light.png");
   background-repeat: repeat, no-repeat;
@@ -46,10 +51,23 @@ div.index__container__inner___1ldZA.index__container___izEfr {
   background-color: hsla(0, 0%, 100%, .25);
 }
 
-.index__torrent___1FDDd {
+.index__torrent___1FDDd, .index__torrentCompact___2M2Ct {
   color: rgb(238, 238, 238);
 }
 
 .index__row___1Uqlq {
   border-bottom: 1px solid rgba(0, 0, 0, .35);
+}
+
+.index__radioButton___1qtf0 [data-react-toolbox="radio"] {
+  border: 2px solid rgb(238, 238, 238);
+}
+
+.index__radioButton___1qtf0 [data-react-toolbox="radio"]::before {
+  background-color: #fff;
+}
+
+.theme__radio___1vWJb {
+  height: 14px;
+  width: 14px;
 }
