@@ -10,7 +10,14 @@ div.index__container__inner___1ldZA.index__container___izEfr {
   background-color: rgba(0, 0, 0, .0);
 }
 
-
-.index__header___28Tp8{
+.index__header___28Tp8 {
   background-color: #162027;
+}
+
+.index__toolbar___1SU3S {
+  background-color: #162027;
+}
+
+.index__button___15Glp > svg {
+  color: #fff;
 }
