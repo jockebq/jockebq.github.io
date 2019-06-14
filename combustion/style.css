@@ -1,4 +1,4 @@
-body {
+.index__container__inner___1ldZA index__container___izEfr {
   background-image: url("https://jockebq.github.io/combustion/blur-noise.png"), url("https://jockebq.github.io/combustion/blur-light.png");
   background-repeat: repeat, no-repeat;
   background-attachment: fixed, fixed;
@@ -11,9 +11,4 @@ body {
   height: auto;
   background-color: rgba(0, 0, 0, .0);
   font-family: Open Sans Semibold, Helvetica Neue, Helvetica, Arial, sans-serif;
-}
-
-
-.index__header___28Tp8{
-  background-color: black!important;
 }
