@@ -1,5 +1,5 @@
 body {
-  background-image: url("blur-noise.png"), url("blur-light.png");
+  background-image: url("https://jockebq.github.io/combustion/blur-noise.png"), url("https://jockebq.github.io/combustion/blur-light.png");
   background-repeat: repeat, no-repeat;
   background-attachment: fixed, fixed;
   background-position: center center, center center;
