@@ -33,3 +33,12 @@ div.index__container__inner___1ldZA.index__container___izEfr {
 .index__down___TP2LS, .index__up___25v1j {
   color: #fff;
 }
+
+.index__list___1eo3W {
+  background-color: hsla(0, 0%, 100%, .35);
+}
+
+.index__selected___2XIcO {
+  background-color: hsla(0, 0%, 100%, .55);
+}
+
